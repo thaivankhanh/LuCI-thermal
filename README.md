@@ -1,7 +1,7 @@
 # LuCI-thermal
 OpenWrt LuCI thermal monitor for OrangePi R1 Plus.<br>
 
-**Warning:** Take care with your OrangePi board, or it burn your house! without a fan, it's hotter than my old NVIDIA GTX750Ti GPU. A heatsink and fan are recommended<br>
+**Warning:** A heatsink and fan are recommended<br>
 
 Adding simple thermal graph to bottom of page "luci/admin/status/overview".
 As this:
